@@ -6,7 +6,9 @@ Thank you for visiting my profile.<br>
 Maybe you want to know something about me, Who am I?<br>
 I am a Python developer and I am very interested in this language.<br>
 Because it is a very powerful and useful language.<br>
-I also use the Django framework, a powerful Python framework that makes web development with this language very easy. I also use graphql and Django Rest Framework to write APIs. It is really enjoyable. I also have knowledge in html, css and javascript, but not as much as my favorite language, Python.<br>
+I also use the Django framework, a powerful Python framework that makes web development with this language very easy.<br>
+I also use graphql and Django Rest Framework to write APIs. It is really enjoyable.<br>
+I also have knowledge in html, css and javascript, but not as much as my favorite language, Python.<br>
 My favorite operating system is Linux and I have been using it for about a year.
 
 # 💻 My skills:
