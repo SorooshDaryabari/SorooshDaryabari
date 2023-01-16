@@ -21,10 +21,10 @@ I've worked with python for 3 years and django for about 2 years and I've been a
 ---
 [![](https://visitcount.itsvg.in/api?id=SorooshDaryabari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ### My operation systems 
 [![](https://img.shields.io/badge/-debian-red?style=for-the-badge&logo=debian)](https://debian.org/)
 [![](https://img.shields.io/badge/-fedora-blue?style=for-the-badge&logo=fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/-manjaro-green?style=for-the-badge&logo=manjaro)](https://manjaro.org/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
