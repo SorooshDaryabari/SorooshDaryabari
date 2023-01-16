@@ -10,7 +10,7 @@ I also use the Django framework, a powerful Python framework that makes web deve
 I also use graphql and Django Rest Framework to write APIs. It is really enjoyable😍<br>
 I also have knowledge in html, css and javascript, but not as much as my favorite language, Python.<br>
 My favorite operating system is Linux and I have been using it for about a year.
-I am 19 years old and a student at Payam Noor University.👨‍🎓
+<br>I am 19 years old and a student at Payam Noor University.👨‍🎓
 <br>
 <br>
 I've worked with python for 3 years and django for about 2 years and I've been a Linux user for about a year.
