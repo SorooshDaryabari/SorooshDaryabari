@@ -1,7 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Soroosh Daryabari❤️<br>Everything you should know about me, is below :
 
 # 💫 About Me:
-I'm Soroosh Daryabari<br>Everything you should know about me, is below :
+Thank you for visiting my profile.
+Maybe you want to know something about me, Who am I?
+I am a Python developer and I am very interested in this language.
+Because it is a very powerful and useful language.
+I also use the Django framework, a powerful Python framework that makes web development with this language very easy. I also use graphql and Django Rest Framework to write APIs. It is really enjoyable. I also have knowledge in html, css and javascript, but not as much as my favorite language, Python.
+My favorite operating system is Linux and I have been using it for about a year.
 
 # 💻 My skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
