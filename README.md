@@ -12,7 +12,6 @@ I also have knowledge in html, css and javascript, but not as much as my favorit
 My favorite operating system is Linux and I have been using it for about a year.
 <br>I am 19 years old and a student at Payam Noor University.👨‍🎓
 <br>
-<br>
 I've worked with python for 3 years and django for about 2 years and I've been a Linux user for about a year.
 
 # 💻 My skills:
