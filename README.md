@@ -33,8 +33,6 @@ I've worked with python for 3 years and django for about 2 years and I've been a
 
 [![](https://visitcount.itsvg.in/api?id=SorooshDaryabari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# My tools
-
 # My operation systems:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
