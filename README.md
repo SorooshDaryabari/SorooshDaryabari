@@ -24,6 +24,6 @@ I've worked with python for 3 years and django for about 2 years and I've been a
 [![](https://img.shields.io/badge/-fedora-blue?style=for-the-badge&logo=fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-manjaro-black?style=for-the-badge&logo=manjaro)](https://manjaro.org/)
-[![](https://img.shields.io/badge/-windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows?r=1))
+[![](https://img.shields.io/badge/-windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows?r=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
