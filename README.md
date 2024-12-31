@@ -1,5 +1,5 @@
 # Hi guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Soroosh Daryabari❤️<br>Everything you should know about me, is below :
+I'm Soroush Daryabari❤️<br>Everything you should know about me, is below :
 
 # 💫 About Me:
 Thank you for visiting my profile🙏<br>
